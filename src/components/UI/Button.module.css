@@ -1,0 +1,16 @@
+button {
+
+    width: 20%;
+    padding: .5rem .7rem;
+    margin: .4rem 0;
+    background-color: #2C4251;
+    border: none;
+    color: azure;
+    cursor: pointer;
+}
+
+button:hover {
+
+
+    background-color: #56829F;
+}

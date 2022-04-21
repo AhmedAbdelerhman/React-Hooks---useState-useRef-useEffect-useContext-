@@ -1,0 +1,26 @@
+.form{
+
+
+  display: flex;
+  flex-direction: column;
+  padding: 3rem;
+
+}
+
+.form label {
+
+    font-size: 2rem;
+    padding:  .5rem 0;
+    font-weight: bold;
+}
+
+.form input {
+
+    border: 1px solid #ccc;
+}
+
+
+.form input:focus {
+outline: none;
+}
+

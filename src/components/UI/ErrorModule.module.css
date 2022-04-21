@@ -1,0 +1,47 @@
+.module{
+
+position: fixed;
+background-color: #fff;
+display: block;
+width: 60%;
+position:  fixed;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+border-radius: 10px;
+}
+
+
+.module header {
+    padding: 2rem ;
+    background-color: #D14081;
+    color: #fff;
+    font-size: 1.8rem;
+    font-weight: bold;
+}
+
+.module section {
+    padding: 2rem ;
+}
+
+.module p {
+    padding: 1.5rem 0 ;
+    font-size: 1rem;
+}
+
+
+.module button {
+float: right;}
+
+
+
+
+.backDrop{
+
+    position: fixed;
+    background-color: #141212d9;
+    height: 100vh;
+    width: 100%;
+    top: 0;
+
+}

@@ -1,0 +1,12 @@
+.list {
+    list-style-type: none;
+    padding: 1rem;
+}
+
+.list li {
+
+    padding: .5rem;
+    border: 1px solid #ccc;
+    margin: .2rem;
+    font-size: 1rem;
+}
